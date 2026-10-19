@@ -1,0 +1,33 @@
+
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Content/HorseAnimsetPro/
+
+# IDE files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build output
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.lib
+*.exp
+
+# Logs
+*.log
